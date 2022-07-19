@@ -6,7 +6,10 @@ The main objective is to create a book recommendation system for users. Recommen
 
 ### Key Skills: 
 
-  Exploratory Data Analysis 
-  Data Cleaning 
-  Collaborative Filtering
-  Cosine similarity
+    Exploratory Data Analysis 
+  
+    Data Cleaning 
+  
+    Collaborative Filtering
+  
+    Cosine similarity
